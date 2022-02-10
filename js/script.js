@@ -3,10 +3,9 @@
 //declare global vars here
 
 //wait for document load
-window.addEventListener('load',Initialize);
+window.addEventListener('load',initialize);
 
-function Initialize()
-{
+function initialize() {
     
 }
 
